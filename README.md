@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 At the start of October 2022 started my journey into learning web development.<br>👯 I’m currently going through the Odin Project curriculum.<br>🤝 I’m looking for help with<br>🌱  Learning ReactJS.<br>
+🔭 At the start of October 2022 started my journey into learning web development.<br>👯 I’m currently going through the Odin Project curriculum.<br>🌱  Learning ReactJS.<br>
 
 
 # 💻 Tech Stack:
